@@ -19,6 +19,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Júlio_Verne
     - http://fr.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14162#Les-tribulations-d-un-chinois-en-Chine
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-11-26'
 gutenberg_type: Text

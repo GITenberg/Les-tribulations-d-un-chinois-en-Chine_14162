@@ -1,0 +1,44 @@
+_repo: Les-tribulations-d-un-chinois-en-Chine_14162
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriel
+    - Verne, Jules Gabriël
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14162'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Rich people -- Juvenile fiction'
+- !lcsh 'Courtship -- Juvenile fiction'
+- !lcsh 'National characteristics, Chinese -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Civil war -- Juvenile fiction'
+- !lcsh 'Insurance -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcc 'PQ'
+- !lcsh 'Happiness -- Juvenile fiction'
+- !lcsh 'Wealth -- Juvenile fiction'
+title: Les tribulations d'un chinois en Chine
+url: http://www.gutenberg.org/ebooks/14162
